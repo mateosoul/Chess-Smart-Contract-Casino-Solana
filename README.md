@@ -1,6 +1,6 @@
 # Chess game smart contract(Casino)
 
-Onchain casino game smar contract - A Solana smart contract for Chess game between two parties, designed for use cases like chess or other competitive games.
+Onchain casino game smart contract - A Solana smart contract for Chess game between two parties, designed for use cases like chess or other competitive games.
 
 ## Overview
 
@@ -8,7 +8,11 @@ This program allows two users to securely deposit SOL into an escrow account, wi
 
 ## Contact
 
-If you have any quesion, contact here: [Telegram](https://t.me/lorine93s) 
+If you have any quesion, contact here: [Telegram](https://t.me/mateosoul) 
+
+
+Gmail: mateo.talentdev@gmail.com
+
 
 ## Features
 
