@@ -1,4 +1,4 @@
-# Chess game smart contract(Casino)
+# Solana Chess game smart contract(Casino)
 
 Onchain casino game smart contract - A Solana smart contract for Chess game between two parties, designed for use cases like chess or other competitive games.
 
